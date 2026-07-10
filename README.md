@@ -12,7 +12,7 @@ Built with React, Vite, Tailwind CSS, and Vercel Serverless Functions + Redis.
 Click the button below to deploy your own private instance to Vercel. It's
 free on Vercel's Hobby plan.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=REPO_URL_PLACEHOLDER&env=DIARY_PIN&envDescription=A%20passcode%20of%20your%20choice%20to%20lock%20your%20diary&project-name=my-superrbook&repository-name=my-superrbook)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FGiaguo528%2Fsuperrbook&env=DIARY_PIN&envDescription=A%20passcode%20of%20your%20choice%20to%20lock%20your%20diary&project-name=my-superrbook&repository-name=my-superrbook)
 
 After it deploys, you need one more manual step (Vercel doesn't let a deploy
 button auto-provision a database yet):
