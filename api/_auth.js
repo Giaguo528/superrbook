@@ -8,7 +8,7 @@ const MAX_AGE = 60 * 60 * 24 * 365;
 function sessionSecret() {
   const pin = process.env.DIARY_PIN;
   if (!pin) return null;
-  return crypto.createHash("sha256").update(`superrbook-session:${pin}`).digest("hex");
+  return crypto.createHash("sha256").update(`notebook-session:${pin}`).digest("hex");
 }
 
 function sign(value, secret) {

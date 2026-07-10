@@ -1,6 +1,6 @@
 {
-  "name": "SuperrBook",
-  "short_name": "SuperrBook",
+  "name": "Notebook",
+  "short_name": "Notebook",
   "description": "A personal diary — 3 beautiful things every day.",
   "start_url": "/",
   "scope": "/",
